@@ -1,0 +1,22 @@
+{
+    "name": "casadocodigo",
+    "version": "1.0.0",
+    "description": "Projeto usado para o ensino de Node.js na Caelum",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [
+        "Node",
+        "ensino",
+        "JS-35",
+        "Caelum"
+    ],
+    "author": "Gabriel Batista <gabriel.texteis@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^2.6.1",
+        "express": "^4.16.3"
+    }
+}
